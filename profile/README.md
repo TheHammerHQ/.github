@@ -1,12 +1,22 @@
-## Hi there 👋
+# 🔨 The Hammer Bot Project
 
-<!--
+Multipurpose, modular, easily configurable Discord bot.
 
-**Here are some ideas to get you started:**
+# 📦 Modular
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+-   Everything is modular, you can easily contribute or even create your own modules!
+-   You can add things from Hammer to your own project easily with Hammer's packages!
+
+# ⏰ Currently In Development
+
+Hammer is still in development, you can join waitlist [here](https://hammer.338.rocks)!
+
+# 🧦 Looking For Contributors
+
+We are looking for contributors to actively work on Hammer and to contribute to the repos. There is still lots of work to do. If you are interested in contributing, please join our [Discord server](https://hammer.338.rocks/discord). (There will be a surprise for early contributors!)
+
+# ☎️ Contact
+
+-   Mail: hammer@338.rocks
+-   Discord: https://discord.gg/pwxYGg5PZm
+-   Website: https://hammer.338.rocks
