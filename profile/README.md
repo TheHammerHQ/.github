@@ -45,13 +45,13 @@ Hammer is still in development, you can contribute to Hammer and make it better 
 
 We are looking for contributors to actively work on Hammer and to contribute to the repos. There is still lots of work to do. If you are interested in contributing, please join our [Discord server](https://338.rocks/discord). (There will be a surprise for early contributors!)
 
-# License
+# 🔑 License
 
 Copyright © 2022 [Barış DEMİRCİ](https://github.com/barbarbar338).
 
 Distributed under the [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) License. See `LICENSE` for more information.
 
-# Contributing
+# 🧦 Contributing
 
 Feel free to use GitHub's features.
 
@@ -62,7 +62,7 @@ Feel free to use GitHub's features.
 5. Push to the Branch (`git push origin feature/my-feature`)
 6. Open a Pull Request
 
-# Show your support
+# ⭐️ Show your support
 
 Give a ⭐️ if this project helped you!
 
